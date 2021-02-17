@@ -1,0 +1,2 @@
+1. Git is local while GitHub is remote
+2.
