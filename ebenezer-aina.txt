@@ -3,3 +3,4 @@
 3. command line
 4.github, gitlab, Bitbucket, SourceForge
 5. collection of files of various different versions of a Project
+6. typing git init in the git directory
