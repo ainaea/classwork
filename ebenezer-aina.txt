@@ -10,3 +10,4 @@ git push: to send to remote sever
 8. an Open Source Distributed Version Control System
 9. A folder that contains all the information that is necessary for a
  project in version control and all the information about commits, remote repository address, etc.
+10. the directory will lose its version control
