@@ -1,2 +1,2 @@
 1. Git is local while GitHub is remote
-2.
+2. it allows user to track modifications and time of such
