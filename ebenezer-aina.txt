@@ -7,4 +7,4 @@
 7. git add:to add file to local repo; 
 git commit: to commit repo; 
 git push: to send to remote sever
-8. 
+8. an Open Source Distributed Version Control System
